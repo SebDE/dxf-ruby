@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
     gem.add_dependency	'geometry', '~> 6.4'
-    gem.add_dependency  'sketch', '~> 0.4'
+    gem.add_dependency  'sketch', '~> 0.0.44'
     gem.add_dependency	'units', '~> 3.0'
 
     gem.required_ruby_version = '>= 2.0'
